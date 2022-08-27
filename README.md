@@ -14,4 +14,4 @@ The SWHID Working Group is an open working group that operates according to the 
 
 The SWHID Governance model is based on a modified version of the Community Specification model from the Joint Development Foundation.
 
-See [4.\_License.md](4._License.md) for details about the licenses for the various types of SWHID materials.
+See [4.\_License.md](Chapters/4._License.md) for details about the licenses for the various types of SWHID materials.
