@@ -1,0 +1,22 @@
+site_name: SWHID Governance
+docs_dir: Chapters
+theme: readthedocs
+extra_css:
+- css/style.css
+use_directory_urls: true
+nav:
+
+- 'Contributor License Agreement': 0._Contributor_License_Agreement.md
+- 'Community Specification License': 1._Community_Specification_License_1.0.md
+- 'Scope': 2._Scope.md
+- 'Notices': 3._Notices.md
+- 'License': 4._License.md
+- 'Governance': 5._Governance.md
+- 'Contributing': 6._Contributing.md
+- 'Code of Conduct': 7._Code_of_Conduct.md
+
+copyright: Copyright &copy; 2022 - SWHID Contributors.
+
+markdown_extensions:
+- codehilite:
+   guess_lang: false
