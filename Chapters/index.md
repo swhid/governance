@@ -1,7 +1,7 @@
 # SWHID Governance
 
 Copyright © 2022- SWHID Contributors.
-This work is licensed under the Creative Commons Attribution License 3.0 Unported (CC-BY-3.0) reproduced in its entirety in [Annex A](creative-commons-attribution-license-4.0-unported.md) herein. All other rights are expressly reserved.
+This work is licensed under the [Creative Commons Attribution License 3.0 Unported (CC-BY-3.0)](https://creativecommons.org/licenses/by/4.0/deed.en). All other rights are expressly reserved.
 
 With thanks to
 Alexios Zavras
